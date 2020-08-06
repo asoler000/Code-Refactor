@@ -109,18 +109,18 @@ img {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .services img{
 min-height: 200px;
 min-width:300px;
-;
 
 }
 
 .services h2{
 margin-bottom: 20px;
 font-size: 36px;
-    
-    }
+
+}
 
 
 footer {
@@ -130,6 +130,7 @@ footer {
     text-align: center;
     font-size:14px;
 } 
+
 
 smaller {
 font-size:initial;
